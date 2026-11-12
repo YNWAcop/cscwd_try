@@ -1,0 +1,5 @@
+# Stage152: extend the ORIGINAL audit to five seeds
+
+2026-11-11. Reuse every completed Stage118 native and Stage123 common-rank8 checkpoint and prediction. Add seeds 131 and 197 to exactly the original three source-disjoint folds for v1, v2, UniC. The original settings, ordinary-selected common epoch, 100 AdamW steps, original grouping, KL=.04 and 19 source/exact-score permutations are unchanged. Native epsilon is inherited; common epsilon is .05. No new radius/threshold/hyperparameter selection.
+
+Two interfaces x three cohorts x three folds x two NEW seeds x 22 arms = 792 new light readout fits. Combine with the original 3 seeds using exactly the first 19 controls for an equal five-seed comparison; retain the earlier 3-seed/99-control result separately. All new runs are sealed before scoring. Use 3000 source/initialization/permutation crossed resamples and report C/N/A/overall together. This extends stochastic robustness, not fresh-cohort generalization. Reuse preflight and audit the current controller's safe-stop handshake; never alter old checkpoints.
