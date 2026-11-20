@@ -1,2 +1,5 @@
-# Preserve exact archived bytes so provenance SHA256 survives every clone.
-* -text
+* text=auto eol=lf
+*.npz binary
+*.pdf binary
+*.png binary
+data/**/*.json -text

@@ -1,0 +1,61 @@
+{
+ "caches": {
+  "design": {
+   "design_all\\fold0.json": "6dc79d8c9df079b8a7f3a29496b576a7da90df2f11e20a09d2e89335246ee895",
+   "design_all\\fold1.json": "12344d03b9cfa93c289d1f65502106aa325f8057d107fbff641f4e9c6786f786",
+   "design_all\\fold2.json": "f46e83ade64b206375220d720b7727f9f1e6973699afb78e6ec3421544ce9cb5",
+   "design_all\\fold3.json": "df3fccdb049ee52161aa41fb7b354a48e7c1789b5541089b05c7d94f9a0eda05",
+   "design_all\\fold4.json": "de59265d3f39ed15f3756e95b16df844b58e1e925172408af7cf261f9398d74e"
+  },
+  "academic": {
+   "list_utility\\Academic_remaining.json": "b837450d93e6cac07dfcfe42b23daf363022462d6e60b3ed2b8466b36864382e"
+  },
+  "committee": {
+   "balanced\\Committee_more_predictions.json": "7021f853d2cc0c0600a8fd6ceb1c99f16e3076ae663894425e9580411e86526f"
+  },
+  "council": {
+   "council\\predictions.json": "5f64af646e1382195359a672f60d69b062237a7c1d89f0f78bd9988b2fa52586"
+  },
+  "reserve": {
+   "council\\independent_sparse_readouts.json": "eddbe04effad6a31e7d148cc3d3856960f174099311a2bc2f7dcb726b2c57a7b"
+  },
+  "MEED": {
+   "meed\\predictions.npz": "b647029fb5a6b1a0dffc10975d4503851fbd7ffe57937ff97af5efd52d025259"
+  },
+  "external": {
+   "upgrade\\forum_results.json": "3b826a39dbe843d100c6517b180691198131b64e79b89f9b910642c7ae62aa39"
+  }
+ },
+ "counts": {
+  "design": 847,
+  "academic": 93,
+  "committee": 147,
+  "council": 742,
+  "reserve": 122,
+  "MEED": 42,
+  "external": 768
+ },
+ "qmsum_zip_sha256": "149335019f734df38a3ad4b17e3cb0d539fdd80e71a6f6b966c8f30cc031dc15",
+ "qmsum_revision": "83d7768c1f2b4dfeb091385d3dc7e239b8e5bb7e",
+ "encoder": "sentence-transformers/all-MiniLM-L6-v2",
+ "encoder_files": {
+  "minilm\\config.json": "953f9c0d463486b10a6871cc2fd59f223b2c70184f49815e7efbcab5d8908b41",
+  "minilm\\model.safetensors": "53aa51172d142c89d9012cce15ae4d6cc0ca6895895114379cacb4fab128d9db",
+  "minilm\\revision.txt": "4f203d65260adfe3c4ae11a6cd73f42bc5dd0325d9ceb0826095d43b26fb3ee6",
+  "minilm\\tokenizer.json": "be50c3628f2bf5bb5e3a7f17b1f74611b2561a3a27eeab05e5aa30f411572037",
+  "minilm\\tokenizer_config.json": "acb92769e8195aabd29b7b2137a9e6d6e25c476a4f15aa4355c233426c61576b",
+  "minilm\\vocab.txt": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3"
+ },
+ "encoder_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+ "verifier": "cross-encoder/ms-marco-MiniLM-L6-v2",
+ "verifier_revision": "233902d25c440f23af6f7d6e94d2946bac0bee0a",
+ "verifier_sha256": "821d1aa69520101d6e0737f78a042ae25b19e5cb9160701909d10434f4aeb0ae",
+ "meed": {
+  "commit": "ec13f7ad67c52f69b9dae23af40a79d0dc627c32",
+  "sha256": "f9a68da9a8b95729be59cf8ed9b2c59f9efa37364cb69c88921164f168306309",
+  "duplicate_vectors": 0
+ },
+ "meetingbank_revision": "5b4fb6f67f490be93e249d70b732780932d19fe3",
+ "packed_endpoints": "afcfc0fa6e1e34e6332f3feb5e2724f28c11ff976d580b07aaff88c1ab748d5e",
+ "packed_forum": "de773246faafb7f616da68364037ddf2ff720f0474e109e6ee57e06050662cb8"
+}

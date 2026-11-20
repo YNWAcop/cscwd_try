@@ -1,0 +1,26 @@
+{
+  "budget": {
+    "queries": 215,
+    "floor_infeasible": 125,
+    "over_budget_under_floor": 20,
+    "alternative_realization": 70
+  },
+  "budget+lock": {
+    "queries": 150,
+    "floor_infeasible": 62,
+    "over_budget_under_floor": 20,
+    "alternative_realization": 68
+  },
+  "lock": {
+    "queries": 524,
+    "floor_infeasible": 357,
+    "over_budget_under_floor": 0,
+    "alternative_realization": 167
+  },
+  "free_one": {
+    "queries": 540,
+    "floor_infeasible": 391,
+    "over_budget_under_floor": 0,
+    "alternative_realization": 149
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "joint_queries": {
+    "design": 847,
+    "academic": 93,
+    "committee": 147,
+    "council": 742,
+    "reserve": 122,
+    "MEED": 42,
+    "external": 768
+  },
+  "LP_domain": {
+    "council": 924
+  },
+  "LP_queries": [
+    {
+      "index": 1091,
+      "domain": "council",
+      "group": "AlamedaCC_01162018",
+      "n": 4,
+      "actions": 3
+    },
+    {
+      "index": 1092,
+      "domain": "council",
+      "group": "SeattleCityCouncil_08062018",
+      "n": 9,
+      "actions": 63
+    },
+    {
+      "index": 1093,
+      "domain": "council",
+      "group": "SeattleCityCouncil_08062018",
+      "n": 9,
+      "actions": 63
+    },
+    {
+      "index": 1094,
+      "domain": "council",
+      "group": "KingCountyCC_01172018",
+      "n": 5,
+      "actions": 9
+    },
+    {
+      "index": 1095,
+      "domain": "council",
+      "group": "SeattleCityCouncil_04192021",
+      "n": 8,
+      "actions": 45
+    },
+    {
+      "index": 1096,
+      "domain": "council",
+      "group": "AlamedaCC_07212015",
+      "n": 5,
+      "actions": 9
+    },
+    {
+      "index": 1097,
+      "domain": "council",
+      "group": "AlamedaCC_07212015",
+      "n": 5,
+      "actions": 9
+    },
+    {
+      "index": 1098,
+      "domain": "council",
+      "group": "SeattleCityCouncil_05162016",
+      "n": 4,
+      "actions": 3
+    },
+    {
+      "index": 1101,
+      "domain": "council",
+      "group": "LongBeachCC_03022021",
+      "n": 8,
+      "actions": 45
+    },
+    {
+      "index": 1102,
+      "domain": "council",
+      "group": "LongBeachCC_03022021",
+      "n": 8,
+      "actions": 45
+    },
+    {
+      "index": 1103,
+      "domain": "council",
+      "group": "AlamedaCC_06182019",
+      "n": 10,
+      "actions": 84
+    },
+    {
+      "index": 1104,
+      "domain": "council",
+      "group": "SeattleCityCouncil_12062021",
+      "n": 7,
+      "actions": 30
+    },
+    {
+      "index": 1105,
+      "domain": "council",
+      "group": "SeattleCityCouncil_02012021",
+      "n": 6,
+      "actions": 18
+    },
+    {
+      "index": 1106,
+      "domain": "council",
+      "group": "SeattleCityCouncil_02012021",
+      "n": 6,
+      "actions": 18
+    },
+    {
+      "index": 1107,
+      "domain": "council",
+      "group": "SeattleCityCouncil_03222021",
+      "n": 6,
+      "actions": 18
+    },
+    {
+      "index": 1110,
+      "domain": "council",
+      "group": "DenverCityCouncil_01082018",
+      "n": 6,
+      "actions": 18
+    },
+    {
+      "index": 1113,
+      "domain": "council",
+      "group": "DenverCityCouncil_07142014",
+      "n": 7,
+      "actions": 30
+    },
+    {
+      "index": 1114,
+      "domain": "council",
+      "group": "DenverCityCouncil_07142014",
+      "n": 7,
+      "actions": 30
+    },
+    {
+      "index": 1115,
+      "domain": "council",
+      "group": "SeattleCityCouncil_02202018",
+      "n": 6,
+      "actions": 18
+    },
+    {
+      "index": 1116,
+      "domain": "council",
+      "group": "SeattleCityCouncil_02202018",
+      "n": 6,
+      "actions": 18
+    },
+    {
+      "index": 1117,
+      "domain": "council",
+      "group": "SeattleCityCouncil_02202018",
+      "n": 6,
+      "actions": 18
+    },
+    {
+      "index": 1118,
+      "domain": "council",
+      "group": "DenverCityCouncil_10112021",
+      "n": 5,
+      "actions": 9
+    },
+    {
+      "index": 1119,
+      "domain": "council",
+      "group": "SeattleCityCouncil_05312016",
+      "n": 4,
+      "actions": 3
+    },
+    {
+      "index": 1120,
+      "domain": "council",
+      "group": "AlamedaCC_02182020",
+      "n": 7,
+      "actions": 30
+    },
+    {
+      "index": 1121,
+      "domain": "council",
+      "group": "SeattleCityCouncil_07232018",
+      "n": 5,
+      "actions": 9
+    },
+    {
+      "index": 1122,
+      "domain": "council",
+      "group": "SeattleCityCouncil_07232018",
+      "n": 5,
+      "actions": 9
+    },
+    {
+      "index": 1123,
+      "domain": "council",
+      "group": "DenverCityCouncil_11212016",
+      "n": 8,
+      "actions": 45
+    },
+    {
+      "index": 1128,
+      "domain": "council",
+      "group": "LongBeachCC_05052020",
+      "n": 8,
+      "actions": 45
+    },
+    {
+      "index": 1129,
+      "domain": "council",
+      "group": "LongBeachCC_05052020",
+      "n": 8,
+      "actions": 45
+    },
+    {
+      "index": 1130,
+      "domain": "council",
+      "group": "LongBeachCC_02092016",
+      "n": 6,
+      "actions": 18
+    },
+    {
+      "index": 1131,
+      "domain": "council",
+      "group": "DenverCityCouncil_11132017",
+      "n": 5,
+      "actions": 9
+    },
+    {
+      "index": 1132,
+      "domain": "council",
+      "group": "LongBeachCC_08112015",
+      "n": 9,
+      "actions": 63
+    },
+    {
+      "index": 1134,
+      "domain": "council",
+      "group": "SeattleCityCouncil_07192022",
+      "n": 8,
+      "actions": 45
+    }
+  ],
+  "LP_affordable": 10,
+  "LP_infeasible_or_overbudget": 914,
+  "LP_max_affordable_cost_error": 0.0,
+  "stratified_count": 130,
+  "stratified_by_domain": {
+    "design": 21,
+    "academic": 21,
+    "committee": 20,
+    "council": 18,
+    "reserve": 18,
+    "MEED": 12,
+    "external": 20
+  },
+  "stratified_affordable": 23,
+  "reconstructed_graphs": 847,
+  "feature_max_probability_error": 0.0
+}
